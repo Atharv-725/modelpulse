@@ -4,7 +4,7 @@
 
 ModelPulse is a lightweight ML observability tool that detects **data drift** between a model's training-time (baseline) data and its live production data — the #1 cause of silent ML model degradation in industry.
 
-**🔗 Live demo:** _(Vercel link coming after deploy)_
+**🔗 Live demo:** https://modelpulse-tau.vercel.app
 
 ## The problem
 
